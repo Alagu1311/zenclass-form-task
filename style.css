@@ -1,0 +1,87 @@
+#cen{
+    text-align: center;
+    font-size: x-large;
+    margin: 30px;
+    background-color: burlywood;
+}
+#form{
+    position: relative;
+    border: 2px solid black;
+    text-align: center;
+    margin: 100px;
+    background-color: blueviolet;
+    
+}
+#nam{
+    position: relative;
+    right: 380px;
+    font-size: medium;
+    font-weight: bold;
+    
+}
+#name{
+    position: relative;
+    right: 380px;
+    width: 200px;
+    
+
+}
+#liv{
+    position: relative;
+    left:380px;
+    bottom:37px;
+    font-size: medium;
+    font-weight: bold;
+}
+#livpla{
+    position: relative;
+    left: 380px;
+    bottom: 35px;
+    width: 200px;
+
+}
+#work{
+    position: relative;
+    font-size: medium;
+    font-weight: bold;
+    right:380px;
+    bottom: 40px;
+}
+#wor{
+    position: relative;
+    right: 380px;
+    width:200px;
+    bottom: 40px;
+
+
+}
+#navitive{
+    position: relative;
+    left: 380px;
+    font-size: medium;
+    font-weight: bold;
+
+}
+#navplace{
+    position: relative;
+    left: 380px;
+    width: 200px;
+}
+#amoun{
+    position: relative;
+    bottom: 25px;
+    font-size: medium;
+    font-weight: bold;
+
+}
+#amo{
+    position: relative;
+    bottom: 20px;
+    width: 200px;
+}
+#sumb{
+    margin: 30px;
+    width: 100px;
+    font-size:large;
+    font-weight: bold;
+}
